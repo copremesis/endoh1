@@ -84,6 +84,7 @@ this would cool to attempt to rewrite in different languages like:
 * erlang
 * elixir
 * ruby
+* perl
 
 
 
