@@ -19,3 +19,4 @@ https://www.youtube.com/watch?v=QMYfkOtYYlg
 # docker container
 `git pull ascii-fuid`
 
+![](https://upload.dragonwrench.com/uploads/ascii-fluid.gif)
