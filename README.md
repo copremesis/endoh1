@@ -1,3 +1,8 @@
+**Note:** I take no credit in writing this yet I'm such a fan of this type of thing I thought
+it would be cool to make it easier to obtain the source code vs scraping ioccc.org
+
+original submission:
+
 ```text
 
 #  include<stdio.h>//  .IOCCC                                         Fluid-  #
