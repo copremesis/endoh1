@@ -67,3 +67,23 @@ make endoh1_color        # colerized version
 make endoh1_deobfuscate  # slightly easier to read version (formatted at least)
 ```
 
+https://github.com/copremesis/endoh1/blob/master/endoh1_deobfuscate.c
+
+this would cool to attempt to rewrite in different languages like:
+
+* rust
+* kotlin
+* clojure
+* groovy
+* java
+* python
+* php
+* go
+* node
+* haskell
+* erlang
+* elixir
+* ruby
+
+
+
