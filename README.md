@@ -64,6 +64,6 @@ docker run -it -w /root/endoh1 copremesis/ascii-fluid bash
 ```bash
 make                     # default endoh1
 make endoh1_color        # colerized version
-make endoh1_deobfuscate # slightly easier to read version (formatted at least)
+make endoh1_deobfuscate  # slightly easier to read version (formatted at least)
 ```
 
