@@ -13,8 +13,8 @@ it would grab a slew more projects
 
 
 # video
-therefore I put it here for easier consumption
 
+https://www.youtube.com/watch?v=QMYfkOtYYlg
 
 # docker container
 `git pull ascii-fuid`
