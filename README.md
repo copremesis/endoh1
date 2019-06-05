@@ -8,17 +8,18 @@ https://www.youtube.com/watch?v=QMYfkOtYYlg
 
 http://ioccc.org/2012/endoh1
 
-when attempting this 
+when attempting this command:
 
 `wget -r http://ioccc.org/2012/endoh1/`
 
-it would grab a slew more projects
+it would grab a slew more projects. 
 
-I wanted it to be easier to obtain this source code work of art
-Enjoy!!!
+Instead I pushed it to this repo and even made a docker
+to make life easier for those interested in studying this
+sort of stuff. 
 
 
-# docker container
+# docker repo
 
 ```bash
 git pull copremesis/ascii-fluid
