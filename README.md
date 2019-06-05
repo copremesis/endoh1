@@ -16,6 +16,7 @@ it would grab a slew more projects
 
 https://www.youtube.com/watch?v=QMYfkOtYYlg
 
+# work in progress
 # docker container
 `git pull ascii-fuid`
 
