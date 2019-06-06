@@ -69,8 +69,7 @@ make endoh1_deobfuscate  # slightly easier to read version (formatted at least)
 
 https://github.com/copremesis/endoh1/blob/master/endoh1_deobfuscate.c
 
-this would cool to attempt to rewrite in different languages like:
-
+I can only _imagine_ -- as an exercise -- to attempt to translate this into:
 * rust
 * kotlin
 * clojure
