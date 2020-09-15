@@ -2,7 +2,7 @@
 
 original submission:
 
-```text
+```C
 
 #  include<stdio.h>//  .IOCCC                                         Fluid-  #
 #  include <unistd.h>  //2012                                         _Sim!_  #
